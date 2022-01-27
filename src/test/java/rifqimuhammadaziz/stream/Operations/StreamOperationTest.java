@@ -1,4 +1,4 @@
-package rifqimuhammadaziz.stream;
+package rifqimuhammadaziz.stream.Operations;
 
 import org.junit.jupiter.api.Test;
 
